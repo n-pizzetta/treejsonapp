@@ -1,4 +1,5 @@
 # treejsonapp
+<a><img src="https://img.shields.io/badge/version-0.1.0-orange"/></a>
 
 > **Affiche l’arborescence d’un fichier JSON via une interface graphique Tkinter.**
 
